@@ -74,9 +74,10 @@ Hi! I'm <strong>Mohsine</strong>, a student at <strong>1337 (42 Network)</strong
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohssinelk22&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohssinelk22&layout=compact&theme=tokyonight" alt="Top Languages">
+
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mohsinelkhatri&theme=dark&hide_border=false" alt="GitHub Streak" />
+
 </div>
 
 <hr>
