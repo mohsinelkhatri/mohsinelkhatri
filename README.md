@@ -23,7 +23,7 @@ Hi! I'm <strong>Mohsine</strong>, a student at <strong>1337 (42 Network)</strong
 <h2 align="center">🚀 Projects I'm Working On</h2>
 
 <ul>
-  <li>1337 core projects (Libft, GNL, Pipex, Push_swap, Minishell…)</li>
+  <li>1337 core projects (Libft, GNL, Minitalk, Push_swap, Minishell…)</li>
   <li>Full-stack experiments (Node.js / Flutter)</li>
   <li>Exploring Lua scripting and game engines</li>
   <li>Advanced networking labs</li>
